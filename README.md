@@ -1,6 +1,6 @@
 # CalculadoraFibonacci
 
-Para testar o código digite, baixe o repositório, e insira o seguinte comando:
+Para testar o código, baixe o repositório, e insira o seguinte comando em seu terminal:
 
 ```
 python index.py
